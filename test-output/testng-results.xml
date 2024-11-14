@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-14T20:40:25 IST" name="Default suite" finished-at="2024-11-14T20:40:31 IST" duration-ms="6082">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T20:40:25 IST" name="Default test" finished-at="2024-11-14T20:40:31 IST" duration-ms="6082">
+      <class name="migration.specs.LoginBasicTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:migration.specs.LoginBasicTest@7dcf94f8]" started-at="2024-11-14T20:40:25 IST" name="initialize" finished-at="2024-11-14T20:40:27 IST" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="loginTest()[pri:0, instance:migration.specs.LoginBasicTest@7dcf94f8]" started-at="2024-11-14T20:40:27 IST" name="loginTest" finished-at="2024-11-14T20:40:31 IST" duration-ms="4687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:migration.specs.LoginBasicTest@7dcf94f8]" started-at="2024-11-14T20:40:31 IST" name="cleanUp" finished-at="2024-11-14T20:40:31 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- migration.specs.LoginBasicTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
